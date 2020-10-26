@@ -1,2 +1,9 @@
 *
 !.gitignore
+!.config/
+
+!.zshrc
+!.config/nvim/
+!.config/nvim/*
+!.config/sway/
+!.config/sway/*
