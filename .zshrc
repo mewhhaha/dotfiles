@@ -1,7 +1,13 @@
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 export PATH="$(yarn global bin):$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
-export PATH="$HOME/.local/bin:$PATH" 
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/go/bin:$PATH"
+
+
+# Golang
+export PATH=/usr/local/go/bin:$PATH
+
 export ZSH="/home/pato/.oh-my-zsh"
 
 ZSH_THEME="robbyrussell"
